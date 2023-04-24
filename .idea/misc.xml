@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1925" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/drawable/login.xml" value="0.1835" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/drawable/plus.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/card.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/dialog.xml" value="0.24895833333333334" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/fragment_friday.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/fragment_monday.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/fragment_thursday.xml" value="0.2359375" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/fragment_tuesday.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/fragment_wednesday.xml" value="0.2359375" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/layout/scrollbar_thumb_selector.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Time_Table/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

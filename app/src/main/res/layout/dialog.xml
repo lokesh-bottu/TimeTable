@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/subjectid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Subject Name"
+            />
+        <EditText
+            android:id="@+id/teacherid"
+            android:hint="Teacher Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/subjectid"
+            />
+        <EditText
+            android:id="@+id/blockid"
+            android:hint="Block No"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/teacherid"
+            />
+        <EditText
+            android:id="@+id/roomid"
+            android:hint="Room No"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/blockid"
+            />
+        <TimePicker
+            android:id="@+id/dialogtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/roomid"
+            android:src="@drawable/time"
+            android:clickable="true"
+            />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
